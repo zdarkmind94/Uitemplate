@@ -17,7 +17,7 @@ This template can be installed with the Foundation CLI, or downloaded and set up
 To manually set up the template, first download it with Git:
 
 ```bash
-git clone https://github.com/zdarkmind/Uitemplate projectname
+git clone https://github.com/zdarkmind94/Uitemplate projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
